@@ -4,6 +4,10 @@
 
 [lien-tinkercad](./lien-tinkercad.txt)
 
+## Fichier etat de l'art
+
+Fichier [ici](./Etat-de-l-art.docx)
+
 ## Images
 
 Dans le dossier images [ici](./images/) :
@@ -18,5 +22,9 @@ Video du circuit tinkercad en action : [ici](./video-tinkercad.mov)
 
 ## Codes du circuit 
 
-Le code [ici](./tinkercad.c)
+Le code [ici](./tinkercad.ino)
+
+## PowerPoint
+
+Powerpoint [ici](./FitStrap.pptx)
 

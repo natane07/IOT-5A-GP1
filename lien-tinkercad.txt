@@ -1,0 +1,5 @@
+Lien circuit : https://www.tinkercad.com/things/ev0WjqwPMLA-test-iot/editel?sharecode=e2Vii4zdS02EjcJLu0ZHmKAyyyxtsKzSOfQ-qLoX-4Y
+
+Lien Schema : https://www.tinkercad.com/things/f0OYEnJayDn-shiny-bigery-bojo/edit?sharecode=eKEN5Q7mPWs01Mldl86p17qd6wt5QbG0pJOnrZF-poM
+
+Lien vers les scenarios : https://docs.google.com/spreadsheets/d/145Yfm-QnL71ET8xKb3EqVFXKb6vJniIGFEQC-c33Vic/edit?usp=sharing
